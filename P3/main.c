@@ -3,7 +3,9 @@ Kyle O'Neill
 KO217135
 Rahul Singh
 Friday 11:30
-ENTER DESCRIPTION HERE
+Program promps user to enter commands which modify a linked list. Each node in the list holds a string value and a pointer
+to another node in the list. User is able to add before a node in the list, add after a node in the list, delete a
+node in the list, replace the string in a given node, print the current list, and end the program.
 */
 #include <stdio.h>
 #include <string.h>
